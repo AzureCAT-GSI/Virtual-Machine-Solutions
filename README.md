@@ -4,7 +4,7 @@ Virtual machines in Azure are very easy to get started with.  Simply provide an 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Presentation
-Download the [PowerPoint](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions/blob/master/todo.pptx).
+Download the [PowerPoint](Architecting Virtual Machine Solutions.pptx?raw=1).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-virtual-machine-solutions/todo.mp4).
