@@ -43,7 +43,7 @@ This section lists the pre-requisites required for this demonstration.
 ```C#
 $vm=Get-AzureRMVM -ResourceGroupName rmdemo -Name rmdemo1 
 
-`Set-AzureRmVMAccessExtension -ResourceGroupName $vm.ResourceGroupName -VMName $vm.Name -Name "Contoso" -TypeHandlerVersion "2.0" -UserName adminUser -Password t0pSecret!
+Set-AzureRmVMAccessExtension -ResourceGroupName $vm.ResourceGroupName -VMName $vm.Name -Name "Contoso" -TypeHandlerVersion "2.0" -UserName adminUser -Password t0pSecret!
 Update-AzureRmVM -VM $vm -ResourceGroupName $vm.ResourceGroupName` 
 ```
 7.	Restart the Virtual Machine `Restart-AzureRMVM -ResourceGroupName rmdemo -Name rmdemo1`
