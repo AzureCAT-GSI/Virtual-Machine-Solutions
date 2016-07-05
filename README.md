@@ -23,7 +23,7 @@ Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-
 * VM Extensions
 
 ## Session Prerequisites
-
+* [Designing and Managing Azure Subscriptions] (https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions/blob/master/README.md)
 
 ## Azure Services Covered
 * [[Azure Virtual Machines]] (https://azure.microsoft.com/en-us/documentation/services/virtual-machines//)
