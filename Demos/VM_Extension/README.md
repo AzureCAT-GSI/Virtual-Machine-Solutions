@@ -33,21 +33,21 @@ This section lists the pre-requisites required for this demonstration.
 
 ## <a name="demosteps"></a> Demo Steps
 *Estimated time: 8 minutes*
+
 1.	Open PowerShell
 2.	Authenticate to Azure using the Login-AzureRmAccount command
 3.	If you have multiple subscriptions choose the correct one using the `Select-AzureRmSubscription -SubscriptionId [SubscriptionID]` command
 4.	List the virtual machines using the `Get-AzureRMVM` command
-
-Verify the service name of the RMDemo1 Virtual machine 
-5.	Deploy password reset  extension using the following:
+5. Verify the service name of the RMDemo1 Virtual machine 
+6.	Deploy password reset  extension using the following:
 ```C#
 $vm=Get-AzureRMVM -ResourceGroupName rmdemo -Name rmdemo1 
 
 `Set-AzureRmVMAccessExtension -ResourceGroupName $vm.ResourceGroupName -VMName $vm.Name -Name "Contoso" -TypeHandlerVersion "2.0" -UserName adminUser -Password t0pSecret!
 Update-AzureRmVM -VM $vm -ResourceGroupName $vm.ResourceGroupName` 
 ```
-6.	Restart the Virtual Machine `Restart-AzureRMVM -ResourceGroupName rmdemo -Name rmdemo1`
-7.	Connect to the Virtual machine and logon using the new password
+7.	Restart the Virtual Machine `Restart-AzureRMVM -ResourceGroupName rmdemo -Name rmdemo1`
+8.	Connect to the Virtual machine and logon using the new password
 
 ## <a name="cleanup"></a> Clean Up
 To clean up this environment delete the virtual machine you created in the Setup section.
