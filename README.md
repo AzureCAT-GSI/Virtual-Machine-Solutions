@@ -9,9 +9,9 @@ Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-
 
 ## Demos
 1. Demo 1
-[[source code](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions/blob/master/todo)]
-[[demo script](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions/blob/master/todo.docx)]
-[[video](https://gsiazurecoecontent.blob.core.windows.net/architecting-virtual-machine-solutions/todo.mp4)]
+[source code](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions/blob/master/todo)
+[demo script](https://github.com/GSIAzureCOE/Virtual-Machine-Solutions/blob/master/todo.docx)
+[video](https://gsiazurecoecontent.blob.core.windows.net/architecting-virtual-machine-solutions/todo.mp4)
 
 ## Session objectives
 * Discuss VM fundamentals (Disks, AV Sets)
@@ -26,12 +26,12 @@ Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-
 * [Designing and Managing Azure Subscriptions] (https://github.com/GSIAzureCOE/Designing-and-Managing-Azure-Subscriptions/blob/master/README.md)
 
 ## Azure Services Covered
-* [[Azure Virtual Machines]] (https://azure.microsoft.com/en-us/documentation/services/virtual-machines//)
-* [[VM Availability Sets]] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-manage-availability/)
-* [[Fault Domains & Update Domains]] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-planned-maintenance/)
-* [[Active Directory IaaS]] (https://azure.microsoft.com/en-us/documentation/articles/active-directory-install-replica-active-directory-domain-controller/)
-* [[SQL Server IaaS]] ()
-* [[VM Extensions]] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-extensions-features/)
+* [Azure Virtual Machines] (https://azure.microsoft.com/en-us/documentation/services/virtual-machines//)
+* [VM Availability Sets] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-manage-availability/)
+* [Fault Domains & Update Domains] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-planned-maintenance/)
+* [[Active Directory IaaS] (https://azure.microsoft.com/en-us/documentation/articles/active-directory-install-replica-active-directory-domain-controller/)
+* [SQL Server IaaS] ()
+* [VM Extensions] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-extensions-features/)
 
 
 ## Code of Conduct
