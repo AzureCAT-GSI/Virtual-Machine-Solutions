@@ -26,7 +26,7 @@ This section lists the pre-requisites required for this demonstration.
    - Set a password (e.g. MyD3m0P@ssw0rd).
    - Create a resource group called rmdemo
    
-    ![1](media/image001.png)
+    ![1](./Media/image001.png)
     
 6.	Click OK.
 
