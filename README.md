@@ -6,11 +6,7 @@ Download the [PowerPoint](Architecting Virtual Machine Solutions.pptx?raw=1).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-<<<<<<< HEAD
 1. Using a VM Extension [demo script](./Demos/VM_Extension/README.md)
-=======
-1. Using a VM Extension [demo script](./#)
->>>>>>> origin/ivegamsft-patch-1
 
 ## Session objectives
 * Discuss VM fundamentals (Disks, AV Sets)
@@ -29,13 +25,8 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 * [VM Availability Sets](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-manage-availability/)
 * [Fault Domains & Update Domains](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-planned-maintenance/)
 * [Active Directory IaaS](https://azure.microsoft.com/en-us/documentation/articles/active-directory-install-replica-active-directory-domain-controller/)
-<<<<<<< HEAD
 * [SQL Server IaaS](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-sql-server-iaas-faq/)
 * [VM Extensions](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-extensions-features/)
-=======
-* [SQL Server IaaS] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-sql-server-iaas-faq/)
-* [VM Extensions] (https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-windows-extensions-features/)
->>>>>>> origin/ivegamsft-patch-1
 
 
 ## Code of Conduct
