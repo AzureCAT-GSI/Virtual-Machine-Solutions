@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # Architecting Virtual Machine Solutions on Azure
 Virtual machines in Azure are very easy to get started with.  Simply provide an image for a new virtual machine instance or choose one from the gallery and you’ll be up and running in no time.  Just like with on-premises solutions, there are best practices to follow when designing solutions comprised of virtual machines.  We will discuss best practices for specific workloads such as identity and database workloads and will highlight the areas that Architects need to remember when designing complex solutions in the cloud.
 
